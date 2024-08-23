@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "546160094276",
+    "project_id": "hoangfurnitureshop",
+    "storage_bucket": "hoangfurnitureshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546160094276:android:0e5b35de71736deb44e011",
+        "android_client_info": {
+          "package_name": "com.hoangdoviet.furnitureshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZBcC2kBj7aB3lZnbJnJtgwopFkjb2b0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
